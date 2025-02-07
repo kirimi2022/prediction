@@ -84,6 +84,6 @@ Contributions are welcome! If you want to enhance this project, feel free to for
 
 📧 Contact
 For questions or collaboration, reach out at:
-Email: your.email@example.com
+Email: dennismwenda1017@gmail.com
 GitHub: yourusername
 
